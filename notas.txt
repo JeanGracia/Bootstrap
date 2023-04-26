@@ -1,0 +1,7 @@
+Con el py-4 aplicarías el padding arriba y abajo a la vez 
+
+responsive 
+col-xs-12 muestra 1 Tarjeta para pantallas de tlf.
+col-sm-6  muestra 2 Tarjetas para pantallas pequeñas.
+col-md-4  muestra 3 Tarjetas para pantallas medianas.
+col-lg-3  muestra 4 Tarjetas para pantallas grandes. 

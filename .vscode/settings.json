@@ -1,0 +1,4 @@
+{
+  "phpserver.autoOpenOnReload": true,
+  "phpserver.port": 8000
+}
